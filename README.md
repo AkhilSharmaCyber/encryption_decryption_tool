@@ -33,18 +33,18 @@ How It Works
 
 Project Structure
 -----------------
-encryption-tool/
-│
-├── encryption/          # Core encryption/decryption logic
-├── interface/           # CLI or GUI interface files
-├── keys/                # Key management and storage
-├── logs/                # Logging encrypted events
-├── requirements.txt     # Python dependencies
-└── README.txt           # Project overview
+encryption-tool
+
+├── encryption/          --> Core encryption and decryption logic  
+├── interface/           --> CLI or GUI interface files  
+├── keys/                --> Secure key management and storage  
+├── logs/                --> Log files for encrypted/decrypted events  
+├── requirements.txt     --> Python dependency list  
+└── README.txt           --> Project documentation and overview  
 
 Installation
 ------------
-git clone https://github.com/yourusername/encryption-tool.git
+git clone https://github.com//encryption-tool.git
 cd encryption-tool
 pip install -r requirements.txt
 python interface/main.py
