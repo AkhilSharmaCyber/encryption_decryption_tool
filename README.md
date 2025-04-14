@@ -42,7 +42,8 @@ encryption-tool
 ├── requirements.txt     --> Python dependency list  
 └── README.txt           --> Project documentation and overview  
 
-**How It works**:
+How It Works
+---------------
 1. 📤 **Input Data**: Users input plain text or upload a file for encryption or decryption.
 
 2. 🔐 **Encryption**: Based on user choice, either AES or RSA algorithm is applied using securely generated keys.
