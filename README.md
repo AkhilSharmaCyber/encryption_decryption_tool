@@ -42,6 +42,18 @@ encryption-tool
 ├── requirements.txt     --> Python dependency list  
 └── README.txt           --> Project documentation and overview  
 
+**How It works**:
+1. 📤 **Input Data**: Users input plain text or upload a file for encryption or decryption.
+
+2. 🔐 **Encryption**: Based on user choice, either AES or RSA algorithm is applied using securely generated keys.
+
+3. 🗝️ **Key Handling**: Keys are managed securely with access control and optional key storage encryption.
+
+4. 🧾 **Logging**: All operations are logged in real-time for auditing and traceability.
+
+5. 🖥️ **User Interface**: Simple command-line interface or GUI to interact with the tool easily.
+
+
 Installation
 ------------
 git clone https://github.com/AkhilSharmaCyber/encryption_decryption_tool
