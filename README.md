@@ -51,7 +51,7 @@ encryption-tool/
 Installation
 ------------
 1. Clone the repository:
-   git clone https://github.com/AkhilSharmaCyber/Encryption-Tool.git
+   git clone https://github.com/AkhilSharmaCyber/encryption_decryption_tool/edit/main/README.md
 
 2. Navigate into the project directory:
    cd encryption-tool
