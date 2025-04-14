@@ -65,7 +65,3 @@ Author
 ------
 Akhil Sharma – Cybersecurity & Encryption Enthusiast
 Connect on LinkedIn
-
-License
--------
-This project is licensed under the MIT License - see the LICENSE file for details.
