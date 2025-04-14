@@ -44,7 +44,7 @@ encryption-tool
 
 Installation
 ------------
-git clone https://github.com//encryption-tool.git
+git clone https://github.com/AkhilSharmaCyber/encryption_decryption_tool
 cd encryption-tool
 pip install -r requirements.txt
 python interface/main.py
