@@ -63,8 +63,8 @@ Future Improvements
 
 Author
 ------
-[Your Name] – Cybersecurity & Encryption Enthusiast
-Connect on LinkedIn (https://linkedin.com/in/yourprofile) | Portfolio (https://yourportfolio.com)
+Akhil Sharma – Cybersecurity & Encryption Enthusiast
+Connect on LinkedIn
 
 License
 -------
